@@ -380,6 +380,6 @@ body {
 .json-viewer{
 	overflow-y:auto;
 }
-#json_container{
+.json_container{
 	padding: 0px 10px;
 }
